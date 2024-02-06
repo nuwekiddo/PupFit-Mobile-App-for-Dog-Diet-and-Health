@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790974446867",
+    "project_id": "care-dog-app",
+    "storage_bucket": "care-dog-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790974446867:android:7ea0d95116b654a8152ee6",
+        "android_client_info": {
+          "package_name": "com.example.dog_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790974446867-6b4pmclal0kn36f2fou2geiicmbs0par.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjbk1fi_xgyvcmisuq2FEzHqik0KcKoAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790974446867-6b4pmclal0kn36f2fou2geiicmbs0par.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
